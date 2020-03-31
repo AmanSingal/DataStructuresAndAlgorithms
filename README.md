@@ -1,2 +1,2 @@
 # DataStructuresAndAlgorithms
-Contains some of the implementations of Data Structures and Algorithms Concepts
+Contains my implementations of some of the Data Structures and Algorithms Concepts
